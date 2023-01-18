@@ -1,3 +1,31 @@
+## Summary
+
+---
+
+A multi-library application based on typescript/react with two buttons, code and text. When a user clicks the code button a fully featured code editor presented which can write out some amount of code. Can also import any arbitary module directly from NPM.
+When a user clicks text button a text area presented which  can write out some amount of documentation or any markdown thing.
+
+
+---
+
+## Libraries
+
+---
+
+- React
+- Typescript
+- React-Redux
+- Redux
+- Redux-Thunk
+- React-Resizable
+- Axios
+- Monaco-Editor
+- Immer
+
+
+---
+
+
 ## Screenshots
 
 ---
